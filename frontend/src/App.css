@@ -1,0 +1,50 @@
+body {
+
+  background-color: #07090f;
+  color: white;
+  font-family: Arial;
+
+}
+
+.App {
+
+  text-align: center;
+  padding: 40px;
+
+}
+
+input {
+
+  padding: 10px;
+  width: 250px;
+  margin-right: 10px;
+
+}
+
+button {
+
+  padding: 10px 20px;
+  cursor: pointer;
+
+}
+
+table {
+
+  margin: 30px auto;
+  border-collapse: collapse;
+  width: 60%;
+
+}
+
+th, td {
+
+  border: 1px solid white;
+  padding: 10px;
+
+}
+
+th {
+
+  background-color: #1e293b;
+
+}
