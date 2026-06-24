@@ -1,0 +1,86 @@
+{
+  "22": {
+    "banner": "Service detected (no banner)",
+    "intelligence": []
+  },
+  "23": {
+    "banner": "Service detected (no banner)",
+    "intelligence": []
+  },
+  "443": {
+    "banner": "Error",
+    "intelligence": []
+  },
+  "80": {
+    "banner": "Service detected (no banner)",
+    "intelligence": []
+  },
+  "993": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "3389": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "995": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "1433": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "445": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "5900": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "110": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "25": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "3306": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "53": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "5432": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "8443": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "139": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "143": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "8080": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "135": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  },
+  "21": {
+    "banner": "Open - No banner",
+    "intelligence": []
+  }
+}

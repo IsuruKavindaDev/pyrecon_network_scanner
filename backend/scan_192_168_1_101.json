@@ -1,0 +1,17 @@
+[
+    {
+        "port": 135,
+        "service": "RPC",
+        "banner": "No Banner"
+    },
+    {
+        "port": 139,
+        "service": "NetBIOS",
+        "banner": "No Banner"
+    },
+    {
+        "port": 445,
+        "service": "SMB",
+        "banner": "No Banner"
+    }
+]
